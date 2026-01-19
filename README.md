@@ -62,18 +62,6 @@ J’aime comprendre comment fonctionnent les choses, concevoir des solutions eff
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p>
